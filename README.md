@@ -21,18 +21,20 @@ VALUE DERIVED
 a. Display the ranking of the companies based on frequency of their 
 transactions with one another. 
 b. Check whether a company name exists in our database or not 
- 
-Figure 4 
- 
- 
+  
+[1](https://user-images.githubusercontent.com/43739144/133906619-5b2aa0de-6638-48f6-a57f-e7bc6bb722b0.PNG)
+
+
 2. The first task is achieved on the home page itself where firstly user is greeted with general 
 information about the companies and just below that a graphical and interactive graph. 
  
-Figure 5 
-  
- 
+ ![2](https://user-images.githubusercontent.com/43739144/133906625-fa992184-39fb-4aac-854d-5d36123fc910.PNG)
+
  
 3. Shows the ranking of the companies based on frequency of their transactions with 
 one another. 
 4. The second page allows the user to enter the name of their vendor or 3rd party 
 company and see if the company is registered in our database or not.
+
+![3](https://user-images.githubusercontent.com/43739144/133906631-98e23119-7c1b-44ba-b38f-7d4f2b0eed51.PNG)
+
