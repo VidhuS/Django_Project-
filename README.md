@@ -22,7 +22,7 @@ a. Display the ranking of the companies based on frequency of their
 transactions with one another. 
 b. Check whether a company name exists in our database or not 
   
-[1](https://user-images.githubusercontent.com/43739144/133906619-5b2aa0de-6638-48f6-a57f-e7bc6bb722b0.PNG)
+![1](https://user-images.githubusercontent.com/43739144/133906619-5b2aa0de-6638-48f6-a57f-e7bc6bb722b0.PNG)
 
 
 2. The first task is achieved on the home page itself where firstly user is greeted with general 
